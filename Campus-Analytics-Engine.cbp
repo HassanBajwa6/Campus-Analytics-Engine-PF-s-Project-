@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Campus-Analytics-Engine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Campus-Analytics-Engine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Campus-Analytics-Engine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../Project Folder/attendance.cpp" />
+		<Unit filename="../Project Folder/attendance.h" />
+		<Unit filename="../Project Folder/course_ops.cpp" />
+		<Unit filename="../Project Folder/course_ops.h" />
+		<Unit filename="../Project Folder/fee_tracker.cpp" />
+		<Unit filename="../Project Folder/fee_tracker.h" />
+		<Unit filename="../Project Folder/filehandler.cpp" />
+		<Unit filename="../Project Folder/filehandler.h" />
+		<Unit filename="../Project Folder/grades.cpp" />
+		<Unit filename="../Project Folder/grades.h" />
+		<Unit filename="../Project Folder/main.cpp" />
+		<Unit filename="../Project Folder/reports.cpp" />
+		<Unit filename="../Project Folder/reports.h" />
+		<Unit filename="../Project Folder/student_ops.cpp" />
+		<Unit filename="../Project Folder/student_ops.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

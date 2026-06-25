@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1782401387 source:c:\users\hassan bajwa\desktop\project folder\attendance.cpp
+	"attendance.h"
+	<iostream>
+	<fstream>
+
+1782401375 c:\users\hassan bajwa\desktop\project folder\attendance.h
+
+1782401096 source:c:\users\hassan bajwa\desktop\project folder\course_ops.cpp
+	"course_ops.h"
+	<iostream>
+	<fstream>
+
+1782401099 c:\users\hassan bajwa\desktop\project folder\course_ops.h
+
+1782405843 source:c:\users\hassan bajwa\desktop\project folder\fee_tracker.cpp
+	"fee_tracker.h"
+	<iostream>
+	<fstream>
+
+1782402043 c:\users\hassan bajwa\desktop\project folder\fee_tracker.h
+
+1782398682 source:c:\users\hassan bajwa\desktop\project folder\filehandler.cpp
+
+1782401772 source:c:\users\hassan bajwa\desktop\project folder\grades.cpp
+	"grades.h"
+	<iostream>
+	<fstream>
+
+1782401758 c:\users\hassan bajwa\desktop\project folder\grades.h
+
+1782402710 source:c:\users\hassan bajwa\desktop\project folder\main.cpp
+	<iostream>
+	"student_ops.h"
+	"course_ops.h"
+	"attendance.h"
+	"grades.h"
+	"fee_tracker.h"
+
+1782402605 c:\users\hassan bajwa\desktop\project folder\student_ops.h
+
+1782398777 source:c:\users\hassan bajwa\desktop\project folder\reports.cpp
+
+1782403130 source:c:\users\hassan bajwa\desktop\project folder\student_ops.cpp
+	"student_ops.h"
+	<iostream>
+	<fstream>
+
